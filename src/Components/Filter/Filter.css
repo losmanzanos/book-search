@@ -1,0 +1,10 @@
+.filter {
+    margin-top: 15px;
+    height: 50px;
+    width: auto;
+    background-color: lightgray;
+}
+
+.filter_info {
+    padding-top: 15px;
+}

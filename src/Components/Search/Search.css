@@ -1,0 +1,9 @@
+.search {
+    height: 50px;
+    width: auto;
+    background-color: gray;
+}
+
+.search_form {
+    padding-top: 15px;
+}
